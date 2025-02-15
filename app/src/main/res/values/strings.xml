@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">Привет!</string>
+    <string name="sing_in_subtitle">Заполните свои данные или продолжите через социальные медиа</string>
+    <string name="template_email">xyz@mail.ru</string>
+    <string name="email">Email</string>
+    <string name="enter">Войти</string>
+    <string name="sing_up">Вы впервые? Создать пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="star_password">********</string>
+    <string name="recover">Востановить</string>
+    <string name="name">Ваше имя</string>
+    <string name="xxxxxxxx">xxxxxxxx</string>
+    <string name="regestration">Зарегистрироваться</string>
+    <string name="sing_in">Есть аккаунт? Войти</string>
+    <string name="regs">Регистрация</string>
+    <string name="send">Отправить</string>
+    <string name="miss_pass">Забыл Пароль</string>
+    <string name="enter_ur_mail">Введите свою учетную запись для сброса</string>
+</resources>
